@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_text_array">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Cherry</item>
+        <item>Dessert</item>
+        <item>Egg</item>
+        <item>Fish</item>
+    </string-array>
+</resources>
